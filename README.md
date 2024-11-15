@@ -1,2 +1,3 @@
 # Protein-Sequence-Analysis
 Designed and implemented a Python program to calculate the physical-chemical properties of protein sequences, replicating key functionalities of the ProtParam tool. Developed a class, which computes various properties of a given protein sequence, including the number of amino acids, total molecular weight, molar extinction coefficient, mass extinction coefficient, theoretical isoelectric point (pI), and amino acid composition. The program was designed for user interaction, allowing real-time analysis of protein sequences entered by the user.
+example protein sequence: VLSPADKTNVKAAW
